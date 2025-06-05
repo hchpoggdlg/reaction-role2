@@ -1,0 +1,12 @@
+{
+  "name": "reaction-role-bot",
+  "version": "1.0.0",
+  "description": "بوت رياكشن رول مع الأزرار في Discord.js v13",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.6.0"
+  },
+  "dependencies": {
+    "discord.js": "^13.12.0"
+  }
+}
